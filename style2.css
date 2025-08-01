@@ -1,0 +1,9 @@
+#rightresult .card:hover {
+  transform: scale(1.02);
+  transition: 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0, 128, 0, 0.15);
+}
+
+.footer a:hover {
+  color: #9cff9c;
+}
